@@ -4,10 +4,9 @@ Small snippets of code, that can be useful for modding
 
 
 ### Usage
-#Access private AlertDialog 
+## Access private AlertDialog 
 A step by step series of examples that tell you how to get a development env running
 
-Say what the step will be
 
 ```
 AlertDialog privateDialog = = createAlertDialog(this.mContext //Context);
